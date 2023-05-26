@@ -27,14 +27,27 @@ tags:
     - bara
     - yiff
   species:
-    - dragon
-    - cow
-    - panther
+    - leopard
+    - lion
     - tiger
+    - dog
+    - wolf
+    - bird
+    - cattle
+    - dragon
   fetish:
     - muscle
+    - anal
+    - rape
+    - animal-on-furry
+    - transform
+    - bondage
+    - dominance-submission
+    - tentacles
   misc:
     - work-in-process
+    - uncensored
+    - engine-unity
   lang:
     - en
   platform:
@@ -42,11 +55,12 @@ tags:
     - android
   publish:
     - itchio
+    - patreon
 
 links:
   - name: .itch.io
     uri: https://c-bonegame.itch.io/beastbeat
-  - name: .patreon.com
+  - name: .patreon
     uri: https://www.patreon.com/MagicMania
   - name: .twitter
     uri: https://twitter.com/Magic_mania72
