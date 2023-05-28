@@ -77,7 +77,7 @@ tags:
     - macos
     - linux
     - android
-  links:
+links:
     - name: itch.io
       uri: https://klke.itch.io/gray
 
