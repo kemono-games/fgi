@@ -19,7 +19,19 @@ description-format: markdown
 
 authors:
   - name: C-BoneGames
-    role: [publisher]
+    role: [ producer ]
+  - name: Ardolf
+    role: [ musician ]
+  - name: BlidBear
+    role: [ voice-actor, musician ]
+  - name: Serphie
+    role: [ artist ]
+  - name: Kainu
+    role: [ screenwriter ]
+  - name: Blossomingruin
+    role: [ musician ]
+  - name: KURORAK
+    role: [ musician ]
 
 tags:
   type:
@@ -37,25 +49,39 @@ tags:
     - dragon
   fetish:
     - muscle
+    - males-only
     - anal
+    - blowjob
+    - face-fucking
+    - masturbation
+    - handjob
     - rape
+    - frottage
     - animal-on-furry
     - transform
+    - transfur
     - bondage
+    - master-slave
     - dominance-submission
+    - mind-break
+    - mind-control
+    - corruption
     - tentacles
   misc:
-    - work-in-process
     - uncensored
+    - work-in-process
     - engine-unity
   lang:
     - en
-  platform:
-    - windows
-    - android
   publish:
     - itchio
     - patreon
+  platform:
+    - windows
+    - android
+  sys:
+    - tagme
+  
 
 links:
   - name: .twitter
