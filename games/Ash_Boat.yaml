@@ -85,6 +85,8 @@ thumbnail: thumbnail.jpg
 
 screenshots:
   - type: image:local
+    path: valley_observation.jpg
+  - type: image:local
     path: blind.png
   - type: image:local
     path: captain.png
@@ -112,5 +114,3 @@ screenshots:
     path: run.png
   - type: image:local
     path: sunset.png
-  - type: image:local
-    path: valley.jpg
