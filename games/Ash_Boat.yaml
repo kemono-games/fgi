@@ -19,35 +19,35 @@ description: |
 description-format: markdown
 
 authors:
-  - name: 相咕社
+  - name: XiangGuShe
     role: [ publisher ]
-  - name: 克勒卡尔
+  - name: Kelekare
     role: [ screenwriter, programmer, translator ]
   - name: Arendt
     role: [ screenwriter ]
   - name: Ice_Wol
     role: [ screenwriter ]
-  - name: 乌鸦
+  - name: WuYa
     role: [ screenwriter ]
-  - name: 东风
+  - name: DongFeng
     role: [ artist, character-designer, scenographer ]
-  - name: 傻狼北境
+  - name: ShaLangBeiJing
     role: [ artist ]
-  - name: 汪爪爪
+  - name: WangZhuaZhua
     role: [ artist ]
-  - name: 述而
+  - name: ShuEr
     role: [ artist ]
-  - name: 枸杞
+  - name: GouQi
     role: [ artist ]
-  - name: 烈狼
+  - name: LieLang
     role: [ artist ]
-  - name: 戴拉克斯
+  - name: DelaX
     role: [ artist ]
   - name: Phil_Fish
     role: [ musician ]
-  - name: 星幂Elroy
+  - name: XingMi_Elroy
     role: [ musician ]
-  - name: 迷若
+  - name: MiRuo
     role: [ musician ]
   - name: Christopher
     role: [ musician ]
