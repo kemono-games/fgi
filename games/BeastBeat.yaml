@@ -59,11 +59,11 @@ tags:
 
 links:
   - name: .twitter
-    uri: https://twitter.com/Magic_mania72
+    uri: twitter:Magic_mania72
   - name: .itch.io
     uri: https://c-bonegame.itch.io/beastbeat
   - name: .patreon
-    uri: https://www.patreon.com/MagicMania
+    uri: patreon:MagicMania
 
 thumbnail: thumbnail.jpg
 
