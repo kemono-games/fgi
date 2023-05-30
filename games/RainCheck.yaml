@@ -1,0 +1,88 @@
+name: RainCheck
+
+brief-description: |
+  Rain Check is a mystery thriller visual novel set in a coastal city with unusual weather patterns where nothing seems quite right.
+  
+  Rain Check contains homosexual themes,  violence, and mature subject matter. You must be at least eighteen (18) to play.
+
+description: |
+  ## When it rains, it pours.
+
+  Rain Check is a mystery thriller visual novel set in a coastal city with unusual weather patterns where nothing seems quite right.
+
+  Follow Theodore, a golden tiger who recently graduated from college, as he's given an opportunity to travel across the country to attend one of the largest tech conventions for the week and befriends a large, mysterious wolf along the way. However, what would have been a pleasant vacation soon has the tiger fearing for his own safety as he gets himself wrapped up in an ongoing investigation. The tiger turns to the wolf he meets, along with a clashing team of investigators, in a desperate attempt to find answers.
+
+  Join Theodore as he and the team uncover the truth about the strange phenomena of the city, and whatever else may be lurking in the shadows.
+
+  If you enjoy the story and would like to support the project, you can check us out on Patreon.  You can get access to exclusive discord channels, earlier access to builds, and more.
+
+description-format: markdown
+
+authors:
+  - name: Radcanine
+    role: [ producer, screenwriter, artist, programmer ]
+  - name: kkpandatime
+    role: [ programmer ]
+  - name: Kodo
+    role: [ programmer ]
+  - name: GeorgeSquares
+    role: [ screenwriter ]
+  - name: Logan
+    role: [ screenwriter ]
+  - name: Civ
+    role: [ musician ]
+  - name: Anthemics
+    role: [ musician ]
+  - name: ABISU
+    role: [ musician ]
+  - name: Leowo
+    role: [ others ]
+  - name: Siggy
+    role: [ others ]
+
+tags:
+  type:
+   - visual-novel
+   - horror
+   - bara
+   - yiff
+  species:
+   - dog
+   - wolf
+   - tiger
+   - bear
+   - cat
+  misc:
+   - freeware
+   - uncensored
+   - multiple-endings
+   - engine-renpy
+   - work-in-process
+  lang:
+   - en
+  publish:
+   - patreon
+   - itchio
+  platform:
+   - windows
+   - macos
+   - linux
+   - android
+
+links:
+  - name: .twitter
+    uri: twitter:RAINCHECKVN
+  - name: .patreon
+    uri: patreon:RainCheckVN
+  - name: .itch.io
+    uri: https://raincheck.itch.io/raincheck
+  - name: .discord
+    uri: discord:7xuWm4cGT7
+
+thumbnail: thumbnail.jpg
+
+screenshots:
+  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTgwMzU5MC5wbmc=/original/anahcA.png
+  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk3NjYwMy5wbmc=/original/TSgj8R.png
+  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk3NjYwMi5wbmc=/original/X0c%2B%2Fd.png
+  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk2NzYxMS5qcGc=/original/J2PcBO.jpg
