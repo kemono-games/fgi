@@ -26,39 +26,40 @@ authors:
     role: [ producer ]
   - name: Captain_Nikko
     role: [ artist ]
-
-type:
-  - comedy
-  - visual-novel
-  - bara
-  - yiff
-species:
-  - cat
-  - dog
-  - wolf
-  - orca
-  - bird
-  - eagle
-  - bat
-  - beaver
-  - lizard
-fetish:
-  - muscle
-misc:
-  - freeware
-  - uncensored
-  - engine-renpy
-  - work-in-process
-lang:
-  - en
-publish:
-  - itchio
-  - patreon
-platform:
-  - windows
-  - macos
-  - linux
-  - android
+tags:
+  type:
+    - comedy
+    - visual-novel
+    - bara
+    - yiff
+  species:
+    - cat
+    - dog
+    - wolf
+    - orca
+    - bird
+    - eagle
+    - bat
+    - beaver
+    - lizard
+  fetish:
+    - muscle
+  misc:
+    - freeware
+    - uncensored
+    - engine-renpy
+    - work-in-process
+  lang:
+    - en
+  publish:
+    - itchio
+    - patreon
+  platform:
+    - windows
+    - macos
+    - linux
+    - android
+  
 links:
   - name: .itch.io
     uri: https://echoproject.itch.io/glory-hounds
