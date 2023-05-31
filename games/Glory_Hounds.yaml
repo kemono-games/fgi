@@ -24,26 +24,21 @@ description-format: markdown
 authors:
   - name: The_Echo_Project
     role: [ producer ]
+  - name: Redd
+    role: [ producer ]
+  - name: Sabre
+    role: [ producer ]
   - name: Captain_Nikko
     role: [ artist ]
 tags:
   type:
-    - comedy
     - visual-novel
-    - bara
-    - yiff
   species:
     - cat
     - dog
-    - wolf
-    - orca
-    - bird
-    - eagle
-    - bat
-    - beaver
     - lizard
-  fetish:
-    - muscle
+    - bat
+    - bird
   misc:
     - freeware
     - uncensored
