@@ -2,19 +2,18 @@ name: RainCheck
 
 brief-description: |
   Rain Check is a mystery thriller visual novel set in a coastal city with unusual weather patterns where nothing seems quite right.
-  
-  Rain Check contains homosexual themes,  violence, and mature subject matter. You must be at least eighteen (18) to play.
+
+  Follow Theodore, a golden tiger who recently graduated from college, as he's given an opportunity to travel across the country to attend one of the largest tech conventions for the week and befriends a large, mysterious wolf along the way.
+
 
 description: |
-  ## When it rains, it pours.
+  "Rain Check" transports players into a riveting world of intrigue, suspense, and unexpected weather phenomena. This mystery thriller visual novel is set in a unique coastal city where the atmosphere teems with an uncanny sense of unease and the weather patterns are as unpredictable as the unfolding narrative.
 
-  Rain Check is a mystery thriller visual novel set in a coastal city with unusual weather patterns where nothing seems quite right.
+  Our protagonist is Theodore, a golden tiger freshly out of college, who embarks on a cross-country journey to attend one of the largest tech conventions. An ordinary trip soon turns into an extraordinary adventure when he crosses paths with a mysterious wolf with an air of enigma that is hard to overlook.
 
-  Follow Theodore, a golden tiger who recently graduated from college, as he's given an opportunity to travel across the country to attend one of the largest tech conventions for the week and befriends a large, mysterious wolf along the way. However, what would have been a pleasant vacation soon has the tiger fearing for his own safety as he gets himself wrapped up in an ongoing investigation. The tiger turns to the wolf he meets, along with a clashing team of investigators, in a desperate attempt to find answers.
+  But this adventure quickly spirals into a chilling nightmare as Theodore finds himself entangled in a web of mystery and danger. A supposed leisure vacation transitions into a struggle for survival as he inadvertently becomes embroiled in an escalating investigation. With his safety hanging by a thread, Theodore has no choice but to rely on the enigmatic wolf and a group of investigators, whose personalities clash as often as they cooperate.
 
-  Join Theodore as he and the team uncover the truth about the strange phenomena of the city, and whatever else may be lurking in the shadows.
-
-  If you enjoy the story and would like to support the project, you can check us out on Patreon.  You can get access to exclusive discord channels, earlier access to builds, and more.
+  As players, you will step into Theodore's shoes, navigating through the turbulent tides of conspiracy and danger. Help Theodore and his team peel back the layers of this coastal city's secret, and confront the unknown threats lurking in the shadows. This visual novel presents a compelling narrative that deftly combines mystery, action, and thriller elements to create an immersive experience that will keep players on the edge of their seats.
 
 description-format: markdown
 
@@ -79,10 +78,12 @@ links:
   - name: .discord
     uri: discord:7xuWm4cGT7
 
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 
 screenshots:
-  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTgwMzU5MC5wbmc=/original/anahcA.png
-  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk3NjYwMy5wbmc=/original/TSgj8R.png
-  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk3NjYwMi5wbmc=/original/X0c%2B%2Fd.png
-  - https://img.itch.zone/aW1hZ2UvMTY0ODk5NS8xMTk2NzYxMS5qcGc=/original/J2PcBO.jpg
+  - type: image:local
+    path: promo_1.png
+  - type: image:local
+    path: promo_2.png
+  - type: image:local
+    path: promo_3.png
