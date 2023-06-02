@@ -16,11 +16,11 @@ description-format: markdown
 
 authors:
   - name: Lavan
-    roles: [ screenwriter, programmer, publisher, character-designer ]
+    role: [ screenwriter, programmer, publisher, character-designer ]
   - name: Tehngo
-    roles: [ artist, character-designer ]
+    role: [ artist, character-designer ]
   - name: Alv
-    roles: [ character-designer ]
+    role: [ character-designer ]
 
 tags:
   type:
