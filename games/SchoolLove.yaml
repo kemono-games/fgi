@@ -25,7 +25,7 @@ description: |
 
 description-format: markdown
 
-authors:
+author:
   - name: Hachiko
     role: [ producer ]
   - name: Smaug_fur
