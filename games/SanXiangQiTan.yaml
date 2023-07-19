@@ -1,0 +1,49 @@
+name: SanXiangQiTan
+
+brief-description: |
+In a world where humans and monsters live together, three protagonists and three different fates are intertwined, and the adventure begins! Explore this wonderful country and hear different stories with Three Wonders.
+
+description: |
+• Horizontal panel hand drawn style
+The game as a whole is hand-drawn, with characters animated frame by frame
+• Multi-protagonist and multi-perspective
+The story starts from multiple perspectives of multiple protagonists and listens to the wonderful story of this country from different ways
+• Rich plot exploration
+Exploring different scenarios and discovering their secrets may also lead the story to different developments
+
+description-format: markdown
+
+authors:
+ - name: BuLu
+   role: []
+ - name: XiongMoJian
+   role: []
+ - name: LangXiaoHun
+   role: []
+
+tags:
+  type:
+   - role-playing
+   - puzzle
+  species:
+   - wolf
+   - fox
+   - snake
+   - tiger
+  lang:
+   - zh
+  platform:
+   - windows
+  publish:
+   - steam
+   
+links:
+  - name: .steam
+    uri:
+    
+thumbnail: thumbnail.png
+
+screenshots:
+  - type: image:local
+    path: GameImage1080P.png 
+  
