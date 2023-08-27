@@ -18,6 +18,8 @@ authors:
     role: [ producer, screenwriter, programmer, artist ]
   - name: 'Studio Klondike'
     role: [ producer, screenwriter, programmer, artist ]
+  - name: Nviek5
+    role: [ animation ]
 
 tags:
   type:
@@ -54,7 +56,7 @@ tags:
 
 links:
   - name: .website
-    uri: https://nekojishi.games/
+    uri: https://www.klondike.studio/
   - name: .steam
     uri: steam:570840
   - name: .itch.io
