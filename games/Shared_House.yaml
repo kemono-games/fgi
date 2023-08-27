@@ -71,17 +71,25 @@ thumbnail: thumbnail.png
 screenshots: 
   - type: image:local
     path: screenshots-1.png
+    sensitive: false
   - type: image:local
     path: screenshots-2.png
+    sensitive: false
   - type: image:local
     path: screenshots-3.png
+    sensitive: false
   - type: image:local
     path: screenshots-4.png
+    sensitive: false
   - type: image:local
     path: posters-1.png
+    sensitive: false
   - type: image:local
     path: posters-2.png
+    sensitive: false
   - type: image:local
     path: posters-3.png
+    sensitive: false
   - type: image:local
     path: posters-4.png
+    sensitive: false
