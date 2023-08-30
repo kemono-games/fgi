@@ -1,0 +1,57 @@
+name: Northern Lights
+
+brief-description: |
+
+description: |
+
+description-format: markdown
+
+authors:
+  - name: TruffleOtter
+    link: twitter:Truffle_otter
+    role: [producer]
+  - name: ChiefAkela
+    link: twitter:ChiefAkela
+    role: 
+  - name: Anthemics
+    link: twitter:Anthemics
+    role: [musician]
+  - name: Haps
+    link: twitter:GotSomeHaps
+    role: [artist]
+  - name: Blazar
+    link: twitter:lotblazar
+    role: [artist]
+  - name: Ytsurem
+    link: twitter:Ytsurem
+    role: [editor]
+  - name: Drewzy
+    link: twitter:ShmeatSnacks
+    role: [artist]
+  - name: HyenaBlood
+    link: twitter:HYENABLOODMEDIA
+    role: [musician, artist]
+  - name: Wattson
+    link: twitter:XT9Kzle
+    role: [programmer]
+  - name: Creeeples
+    link: twitter:Creeeples
+    role: [programmer]
+
+tags:
+
+thumbnail: thumbnail
+
+links:
+  - name: .itch.io
+    uri: https://splitpeakstudio.itch.io/northern-lights
+  - name: .twitter
+    uri: twitter:NorthernLightVN
+  - name: .patreon
+    uri: patreon76596690
+  - name: .discord
+    uri: https://discord.com/invite/pUKCKxnBGJ
+  
+
+screenshots:
+
