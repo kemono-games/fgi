@@ -18,34 +18,34 @@ description-format: markdown
 authors:
   - name: Truffle_Otter
     link: twitter:Truffle_otter
-    role: [producer]
+    role: [producer, screenwriter]
   - name: ChiefAkela
     link: twitter:ChiefAkela
-    role: [producer]
+    role: [producer, screenwriter]
   - name: Anthemics
     link: twitter:Anthemics
     role: [musician]
   - name: HAPS
     link: twitter:GotSomeHaps
-    role: [artist]
+    role: [art-director]
   - name: Blazar
     link: twitter:lotblazar
     role: [artist]
   - name: Ytsurem
     link: twitter:Ytsurem
-    role: [editor]
+    role: [screenwriter]
   - name: Drewzy
     link: twitter:ShmeatSnacks
     role: [artist]
   - name: HyenaBlood
     link: twitter:HYENAWOUND
-    role: [musician, artist]
+    role: [musician, scenographer]
   - name: Wattson
     link: twitter:XT9Kzle
     role: [programmer]
   - name: Creeeples
     link: twitter:Creeeples
-    role: [programmer]
+    role: [technical-support]
   - name: scruffmutts
     link: twitter:scruffmutts
     role: [other]
