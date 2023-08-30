@@ -1,22 +1,32 @@
 name: Northern Lights
 
-brief-description: |
-
 description: |
+  (Northern Lights will contain adult themes and NSFW scenes. You must be 18 or older to play.)
+
+  Set in the 1980s, you are an amateur film maker with a knack for horror films.
+
+  You'll be leaving your life and best friends in New Orleans behind, as you make your own way forward, travelling to Montana for then only college with an arts program you can afford, defiant of your father's intransigent intentions, no longer willing to be his walking trophy rack. 
+
+  In a climate of friendship, budding romance, self-acceptance, folklore and mystery, you'll confront your repressed feelings with the support of new friends, and face challenges even greater than navigating life as a college freshman.
+
+  Northern Lights is a slowly built, grounded, slice-of-life story, where you embark on a journey of discovery, alongside an array of interesting characters who are just as oblivious about the secrets of their town and neck of the woods as you are, growing together, bonding through shared experiences. 
+
+  Explore the story with your new friends, rather than through them. It's up to y'all to focus and pay attention to the world around you, pull on threads, and dig deep to find answers. What secrets will you unearth about the past of Aspen Hollow? Will you have the strength to embrace an uncertain future, and thrive? Will you accept your true self at at long last?
+
 
 description-format: markdown
 
 authors:
-  - name: TruffleOtter
+  - name: Truffle_Otter
     link: twitter:Truffle_otter
     role: [producer]
   - name: ChiefAkela
     link: twitter:ChiefAkela
-    role: 
+    role: [producer]
   - name: Anthemics
     link: twitter:Anthemics
     role: [musician]
-  - name: Haps
+  - name: HAPS
     link: twitter:GotSomeHaps
     role: [artist]
   - name: Blazar
@@ -29,7 +39,7 @@ authors:
     link: twitter:ShmeatSnacks
     role: [artist]
   - name: HyenaBlood
-    link: twitter:HYENABLOODMEDIA
+    link: twitter:HYENAWOUND
     role: [musician, artist]
   - name: Wattson
     link: twitter:XT9Kzle
@@ -37,6 +47,9 @@ authors:
   - name: Creeeples
     link: twitter:Creeeples
     role: [programmer]
+  - name: scruffmutts
+    link: twitter:scruffmutts
+    role: [other]
 
 tags:
 
