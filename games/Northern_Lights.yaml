@@ -77,7 +77,7 @@ tags:
     - android
 
 
-thumbnail: thumbnail
+thumbnail: thumbnail.jpg
 
 links:
   - name: .itch.io
@@ -91,4 +91,6 @@ links:
   
 
 screenshots:
-
+  - https://img.itch.zone/aW1hZ2UvMTcyMzk3OS8xMzA0MDUyMi5wbmc=/original/8VlvQ4.png
+  - https://img.itch.zone/aW1hZ2UvMTcyMzk3OS8xMzA0MDUyMy5wbmc=/original/4tOTHH.png
+  - https://img.itch.zone/aW1hZ2UvMTcyMzk3OS8xMzA5OTA2My5wbmc=/original/InlZtn.png
