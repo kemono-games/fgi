@@ -51,9 +51,9 @@ tages:
     - android
 
 links:
-  - name: itch.io
+  - name: .itch.io
     uri: https://wyyth.itch.io/reincarvn
-  - name: patreon
+  - name: .patreon
     uri: patreon:wyth
 
 thumbnail: thumbnail.png
