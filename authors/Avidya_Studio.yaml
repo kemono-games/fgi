@@ -5,13 +5,10 @@ aliases:
 
 type: small-team
 
-avatar: //TODO
+avatar: Avidya_Studio.jpg
 
-links:  //TODO
-
-//TODO
-
-
-https://weibo.com/u/7840378525
-
-https://space.bilibili.com/3494349627197577
+links:
+  - name: .weibo
+    uri: https://weibo.com/u/7840378525
+  - name: .bilibili
+    uri: https://space.bilibili.com/3494349627197577
