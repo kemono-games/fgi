@@ -46,7 +46,7 @@ tages:
     - patreon
   platform:
     - windows
-    - Linux
+    - linux
     - macos
     - android
 
