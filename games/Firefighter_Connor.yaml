@@ -78,7 +78,7 @@ links:
   - name: .discord
     uri: discord:8SD3aeyGQV
 
-thumbnail: thumbnail //TODO
+thumbnail: thumbnail.jpg
 
 screenshots:
   - video:
