@@ -94,6 +94,7 @@ properties:
               - localization:en
               - proofreader:en
               - ui-designer
+              - sponsor
               - others
       required: [name, role]
   tags:
