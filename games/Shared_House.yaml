@@ -48,6 +48,10 @@ authors:
    role: [artist]
  - name: ponzu_tas
    role: [musician]
+ - name: SeagullLarus
+   role: [translator]
+ - name: yanjiuxingyu
+   role: [artist]
 
 tags:
   type:
