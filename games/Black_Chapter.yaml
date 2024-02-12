@@ -86,6 +86,20 @@ links:
 thumbnail: thumbnail.png
 
 screenshots:
+  - type: video:local
+    src:
+      - mime: video/webm
+        path: Black_Chapter_480.webm
+        size: 480
+      - mime: video/mp4
+        path: Black_Chapter_480.mp4
+        size: 480
+      - mime: video/webm
+        path: Black_Chapter_1080.webm
+        size: 1080
+      - mime: video/mp4
+        path: Black_Chapter_1080.mp4
+        size: 1080
   - type: image:local
     path: screenshot0001.png
   - type: image:local
