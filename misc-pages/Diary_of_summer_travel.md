@@ -1,6 +1,6 @@
 # 金泉风土记 下载链接合集
 
-[和那家伙合租房](gameSlug://Diary-of-summer-travel)
+[金泉风土记](gameSlug://Diary-of-summer-travel)
 
 ## 网盘下载
 
