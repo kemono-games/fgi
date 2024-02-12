@@ -45,3 +45,19 @@ links:
      uri: FGI-misc-page:Diary_of_summer_travel
 
 thumbnail: thumbnail.jpg
+
+screenshots:
+  - type: video:local
+    src:
+      - mime: video/webm
+        path: Diary_of_summer_travel_480.webm
+        size: 480
+      - mime: video/mp4
+        path: Diary_of_summer_travel_480.mp4
+        size: 480
+      - mime: video/webm
+        path: Diary_of_summer_travel_1080.webm
+        size: 1080
+      - mime: video/mp4
+        path: Diary_of_summer_travel_1080.mp4
+        size: 1080
