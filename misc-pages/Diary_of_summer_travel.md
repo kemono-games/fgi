@@ -6,4 +6,4 @@
 
 [Windows(MEGA)](https://shorturl.at/vwL03)
 
-[Windows(夸克）](https://pan.quark.cn/s/42c393865887#/list/share)
+[Windows(夸克)](https://pan.quark.cn/s/42c393865887#/list/share)
