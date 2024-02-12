@@ -22,17 +22,37 @@ description-format: markdown
 
 authors:
   - name: 星火社游戏制作组
-    role: [publisher]
-  - name: 氷牙
-    role: [producer, screenwriter]
-  - name: 石月月bb
-    role: [artist]
-  - name: 泉邃
-    role: [scenographer]
+    role: [ publisher ]
+  - name: BingYa
+    role: [ producer, screenwriter ]
+  - name: ShiYueYueBB
+    role: [ artist ]
+  - name: QuanSui
+    role: [ scenographer ]
   - name: 魔王卜
-    role: [programmer]
+    role: [ programmer ]
   - name: 偏钛酸钡
-    role: [technical-support]
+    role: [ technical-support ]
+  - name: BuMengDeLongLong
+    role: [ programmer ]
+  - name: RuiLuoMu
+    role: [ musician ]
+  - name: GaiAoKa
+    role: [ musician ]
+  - name: FeiErFeiSi
+    role: [ musician ]
+  - name: XingMiElory
+    role: [ musician ]
+  - name: AYouEX
+    role: [ others ]
+  - name: LuanHuo
+    role: [ others ]
+  - name: ZhongMaoZhongZhongMao
+    role: [ others ]
+  - name: YeMaoZiXiaoKai
+    role: [ musician ]
+  - name: MuSanYu
+    role: [ musician ]
 
 tags:
   type:
@@ -41,6 +61,9 @@ tags:
   species:
     - dog
     - bear
+    - tiger
+    - hyena
+    - lion
   fetish:
     - muscle
   misc:
@@ -64,4 +87,32 @@ thumbnail: thumbnail.png
 
 screenshots:
   - type: image:local
-    path: 1.png
+    path: screenshot0001.png
+  - type: image:local
+    path: screenshot0002.png
+  - type: image:local
+    path: screenshot0003.png
+  - type: image:local
+    path: screenshot0004.png
+  - type: image:local
+    path: screenshot0005.png
+  - type: image:local
+    path: screenshot0006.png
+  - type: image:local
+    path: screenshot0007.png
+  - type: image:local
+    path: screenshot0008.png
+  - type: image:local
+    path: screenshot0009.png
+  - type: image:local
+    path: screenshot00010.png
+  - type: image:local
+    path: screenshot00011.png
+  - type: image:local
+    path: screenshot00012.png
+  - type: image:local
+    path: screenshot00013.png
+  - type: image:local
+    path: screenshot00014.png
+  - type: image:local
+    path: screenshot00015.png
