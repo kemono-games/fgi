@@ -78,8 +78,6 @@ thumbnail: thumbnail.png
   
 screenshots:
   - type: image:local
-    path: screenshot07.png
-  - type: image:local
     path: screenshot01.png
   - type: image:local
     path: screenshot02.png
