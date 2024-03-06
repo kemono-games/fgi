@@ -5,7 +5,7 @@ description: |
 
 authors:
   - name: 阿品
-    role: [ producer, artist, animator, character-designer, scenographer ]
+    role: [ producer, artist, animation, character-designer, scenographer ]
     avatar: 阿品.jpg
   - name: 奶酪
     role: [ screenwriter ]
