@@ -1,0 +1,77 @@
+name: Jigsaw Puzzles
+
+description: |
+  Due to unforeseen circumstances, you've been compelled to leave behind the familiar comforts of human society and find yourself in a peculiar world bustling with beastfolk and "Strangents" who've shared experiences akin to yours.
+
+  Here, you're faced with a decision: either team up with the steadfast and reliable outsider who heads the local law enforcement—Bill, a bear man—or venture alongside the sardonic nighttime broadcaster—a wolf man named Gangore. Together, you'll delve into the mysteries of this unfamiliar realm, delving into their pasts, and perhaps even leveraging your unique abilities to truly grasp the situation. The choice is entirely yours...
+
+description-format: markdown
+
+authors:
+  - name: BenBenDeBeiJiXiong
+    role: [producer, screenwriter]
+  - name: XiLongrua
+    role: [programmer]
+  - name: black_FHei
+    role: [artist]
+  - name: LiaoBuEr
+    role: [artist]
+  - name: Duuuuucer
+    role: [artist]
+  - name: Chris曲叔`
+    role: [musician]
+  - name: AxelBeary
+    role: [translator]
+
+tags:
+  type:
+    - visual-novel
+    - bara
+  species:
+    - wolf
+    - bear
+    - hyena
+    - pig
+  fetish:
+    - muscle
+  lang:
+    - en
+    - zh
+  publish:
+    - itchio
+  platform:
+    - windows
+    - android
+    - macos
+  misc:
+    - engine-renpy
+    - multiple-endings
+    - work-in-progress
+
+links:
+  - name: .itch.io
+    uri: https://2045754227.itch.io/jigsaw-puzzles
+  - name: .afdian
+    uri: https://afdian.net/a/847bear
+  - name: .baidupan
+    uri: https://pan.baidu.com/s/1MYmHPilae43rSYwgNxZS9Q?pwd=5m80
+  - name: .weibo
+    uri: https://weibo.com/u/7812539838
+  - name: .bilibili
+    uri: https://space.bilibili.com/1220542097
+
+thumbnail: thumbnail.png
+
+screenshots:
+  - type: image:local
+    path: screenshot-01.png
+  - type: image:local
+    path: screenshot-02.png
+  - type: image:local
+    path: screenshot-03.png
+  - type: image:local
+    path: screenshot-04.png
+  - type: image:local
+    path: screenshot-05.png
+  - type: image:local
+    path: screenshot-06.png
