@@ -3,5 +3,5 @@ name: Duuuuucer
 type: personal
 
 links:
-  name: .qq
-  uri: uin:2481838672
+  - name: .qq
+    uri: uin:2481838672
