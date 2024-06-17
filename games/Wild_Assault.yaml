@@ -1,0 +1,105 @@
+name: Wild Assault
+
+brief-description: |
+  "Wild Assault" is a third-person shooter game developed with the Unreal 5 engine by Combat Cat Studio, dedicated to creating an animal hero war experience. In the game, you will become various animal heroes, using different weapons and tactical skills, closely cooperating with teammates, rushing to the battlefield to win victory. Intense battle atmosphere, refreshing gun shooting, unique tactical skills - animal heroes from all over the world roam between battlefields in search of different destinies and forge legendary stories in a unique plush war.
+
+description: |
+  "The soul of a slaughterer is blind. Without true insight, there can be no genuine love and justice."
+
+  ![image alt](https://i.imgur.com/L0Csgam.png)
+
+  ### Animal Heroes: Choose Freely
+
+  Heroes exist in the form of animals; they run, climb, jump seize positions set traps – everything under your control.
+
+  Animal heroes from around the world with diverse styles gather here for one decisive showdown.
+
+  ![image alt](https://i.imgur.com/wlsBKru.png)
+
+  ### Shooting Duel: Hit The Mark 
+
+  Surviving on the battlefield requires good marksmanship.
+
+  With handy firearm handling and exhilarating shooting experiences choose from multiple firearms as needed.
+
+  ![image alt](https://i.imgur.com/9nhXb29.png)
+
+  ### Unique Skills: Surprise Victory 
+
+  A brand-new skill system where each animal hero has distinct abilities.
+
+  Skillful manipulation combined with deadly gunfire creates myriad tactical possibilities.
+
+  ![image alt](https://i.imgur.com/oNYOrRV.jpeg)
+
+  ### Smoke And Bullet Rain: Face Off Against Armies 
+
+  The flames of war spread across fields filled with bullets ranging from small-scale stronghold battles to large-scale frontline attacks.
+
+  Experience 20 vs 20 battlefield confrontations; a test of strength is inevitable.
+
+  ![image alt](https://i.imgur.com/eaDBVlY.jpeg)
+
+  ### Team Cooperation: Tactical Coordination 
+
+  Fighting alongside squad members maximizes your achievements on battlegrounds.
+
+  Whether you want everyone to keep enemies at bay or assign specific roles for an all-out assault everyone can have their own beast hunting moment here!
+
+  ![image alt](https://i.imgur.com/A4LE24w.jpeg)
+
+description-format: markdown
+
+authors:
+  - name: Combat_Cat_Studio
+    role: [producer]
+
+tags:
+  # tiger;wolf;weasel;bear;cattle;rabbit;unpublished;work-in-process;3d;multiplayer;co-op;pvp;online;en;ja;pt;ru;zh
+  type:
+    - shooter
+    - multiplayer
+    - co-op
+    - pvp
+    - online
+  species:
+    - tiger
+    - wolf
+    - weasel
+    - bear
+    - cattle
+    - rabbit
+  misc:
+    - unpublished
+    - work-in-process
+    - 3d
+  lang:
+    - en
+    - ja
+    - pt
+    - ru
+    - zh
+
+links:
+  - name: .steam
+    uri: steam:2827230
+  - name: .youtube
+    uri: youtube:WildAssault
+  - name: .bilibili
+    uri: https://space.bilibili.com/389117626
+  - name: .weibo
+    uri: https://www.weibo.com/u/7911445919
+
+thumbnail: thumbnail.png
+
+screenshots:
+  - type: youtube
+    id: 7JfnO9UX62M
+  - type: image:local
+    path: screenshot-1.jpg
+  - type: image:local
+    path: screenshot-2.jpg
+  - type: image:local
+    path: screenshot-3.jpg
+  - type: image:local
+    path: screenshot-4.jpg
