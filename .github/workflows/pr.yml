@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
         fetch-depth: 0
@@ -38,4 +38,3 @@ jobs:
         echo "$dfs" | grep '^games/l10n/[^/]*$' | while read -r i; do
           ./scripts/lint.sh game-l10n "$i"
         done
-        
